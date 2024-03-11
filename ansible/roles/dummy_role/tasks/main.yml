@@ -1,0 +1,4 @@
+---
+- name: Update /etc/hostname
+  ansible.builtin.hostname:
+    name: "taras-petrovskyi-lab2"

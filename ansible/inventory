@@ -1,0 +1,2 @@
+[targets]
+target_host ansible_host=10.0.2.15

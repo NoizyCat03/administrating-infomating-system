@@ -1,0 +1,6 @@
+---
+- name: Update hostname
+  hosts: targets
+  become: yes
+  roles:
+    - update_hostname

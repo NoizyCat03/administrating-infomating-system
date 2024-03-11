@@ -3,4 +3,4 @@
   hosts: targets
   become: yes
   roles:
-    - update_hostname
+    - taras-petrovskyi-lab2
